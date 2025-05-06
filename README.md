@@ -20,7 +20,7 @@
 - 🔥 Next.js 13+ App Router  
 - 🧩 Fullstack architecture (building my own app — *Helpy*)
 
-## 🛠️ Техстек
+## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
