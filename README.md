@@ -16,8 +16,7 @@
 - Building products that actually make a difference
 
 ## 🌱 Currently learning
-- 🧠 React Native  
-- 🔥 Next.js 13+ App Router  
+- 🔥 Next.js 13+
 - 🧩 Fullstack architecture (building my own app — *Helpy*)
 
 ## 🛠️ Tech Stack
